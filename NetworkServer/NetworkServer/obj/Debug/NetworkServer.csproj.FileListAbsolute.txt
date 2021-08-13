@@ -1,0 +1,6 @@
+D:\visual project\NetworkServer\NetworkServer\bin\Debug\NetworkServer.exe.config
+D:\visual project\NetworkServer\NetworkServer\bin\Debug\NetworkServer.exe
+D:\visual project\NetworkServer\NetworkServer\bin\Debug\NetworkServer.pdb
+D:\visual project\NetworkServer\NetworkServer\obj\Debug\NetworkServer.csprojResolveAssemblyReference.cache
+D:\visual project\NetworkServer\NetworkServer\obj\Debug\NetworkServer.exe
+D:\visual project\NetworkServer\NetworkServer\obj\Debug\NetworkServer.pdb
